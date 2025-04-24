@@ -1,2 +1,2 @@
-# ClassUnity
-Unity projects used in class
+# Unity projects
+### Unity Version: 2022.3.56f1
